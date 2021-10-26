@@ -1,7 +1,7 @@
 ## EmoteLoad EN-US
 ### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [[**MUNDAR LINGUAGEM**]](https://emoteload.ml) 
   
-![image](https://cdn.discordapp.com/attachments/822621497272303698/901282019085008956/EL_500.png)  
+![image](https://cdn.discordapp.com/attachments/822621497272303698/902661535405600818/EMOTELOAD_BANNER.png)  
   
 Emoteload, is a bot for add emotes in your server in easy mode, with only one command you can add so cool emotes to your server.
 Add bot to your server and start the party! What are you waiting? Add the bot today!
