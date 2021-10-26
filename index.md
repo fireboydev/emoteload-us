@@ -1,5 +1,5 @@
 ## EmoteLoad EN-US
-### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [[**MUNDAR LINGUAGEM**]](https://emoteload.ml) 
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [[**MUNDAR LINGUAGEM**]](https://br.emoteload.ml) 
   
 ![image](https://cdn.discordapp.com/attachments/822621497272303698/902661535405600818/EMOTELOAD_BANNER.png)  
   
